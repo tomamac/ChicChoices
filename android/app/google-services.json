@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "124662610612",
+    "project_id": "chic-choices",
+    "storage_bucket": "chic-choices.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124662610612:android:3720e825537d936313b5e1",
+        "android_client_info": {
+          "package_name": "com.example.chic_choices"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIW1AOaqnKMc8ABeU2i0IVjdu5LNu9GWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
