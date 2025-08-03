@@ -4,6 +4,8 @@
 โปรโตไทป์แอพพลิเคชั่นมือถือสำหรับการจองตั๋วเครื่องบิน, รถทัวร์, รถไฟ\
 ภาษาและเครื่องมือที่ใช้ : Dart, Flutter framework, Firebase, VSCode\
 \
+**เฉพาะหน้าการจองมีใช้โค้ดที่ดัดแปลงเล็กน้อยจาก Repository นี้ [https://github.com/CarmineToriello95/flight_booking_app_design_concept]**\
+\
 ดูคลิปตัวอย่างการใช้งานได้ที่นี่\
 https://youtu.be/ywAhBc53Og8 \
 ![image](https://github.com/tomamac/ChicChoices/assets/98507014/ae24526c-0f86-4965-9043-6f2aeb5da860)
